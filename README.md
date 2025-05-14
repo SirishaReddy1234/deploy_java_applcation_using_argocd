@@ -1,0 +1,2 @@
+# deploy_java_applcation_using_argocd
+java
